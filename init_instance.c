@@ -2,7 +2,7 @@
 
 /**
  * init_instance - The init function
- * instance: pointer
+ * @instance: pointer
  *
  * Return: 0
  */
