@@ -1,5 +1,4 @@
-#include <SDL2/SDL.h>
-/* #include "maze.h" */
+#include "maze.h"
 
 /**
  * main - The main function
